@@ -1,0 +1,5 @@
+b = input("Enter your age in format dd/mm/yy: ")
+c = float(input("Enter number"))
+a = input("Enter your name: ")
+print(a,b)
+print(type(c))
